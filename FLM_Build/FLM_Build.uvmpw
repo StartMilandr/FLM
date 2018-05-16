@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>.\VE1_FLM_FlashInt\VE1_FLM_FlashInt.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\VE9x_FLM_FlashInt\VE9x_FLM_FlashInt.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\VE1_FLM_FlashInt_DR\VE1_FLM_FlashIntDR.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\VE9x_FLM_FlashInt_DR\VE9x_FLM_FlashIntDR.uvproj</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+  </project>
+
+</ProjectWorkspace>
